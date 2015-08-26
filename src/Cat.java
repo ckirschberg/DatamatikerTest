@@ -16,4 +16,9 @@ public class Cat {
     public void setName(String name){
         this.name = name;
     }
+
+    public void activateCat()
+    {
+        System.out.println("Miauuu! Hiissssss! *cat charges forward*");
+    }
 }

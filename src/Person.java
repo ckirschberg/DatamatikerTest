@@ -7,9 +7,9 @@ public class Person {
     private String name;
     private String title;
 
-    public void setName()
+    public void setName(String name)
     {
-        return name;
+        this.name=name;
     }
 
 

@@ -3,7 +3,6 @@
  */
 public class Person {
 
-<<<<<<< HEAD
     private String name;
     private String title;
 

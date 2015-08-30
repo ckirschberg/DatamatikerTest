@@ -21,4 +21,5 @@ public class Cat {
     {
         System.out.println("Miauuu! Hiissssss! *cat charges forward*");
     }
+    public void pulltale()   { System.out.println("Hiissssss! *claws displayed*");}
 }

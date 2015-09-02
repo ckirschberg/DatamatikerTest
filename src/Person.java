@@ -1,5 +1,6 @@
 /**
  * Created by mariannenielsen on 26/08/15.
+ * Get added by jart on 02/09/15.
  */
 public class Person {
 
@@ -11,6 +12,10 @@ public class Person {
         this.name=name;
     }
 
+	Public String getName(String name)
+	{
+		return this.name;
+	}
 
     public Person()
     {

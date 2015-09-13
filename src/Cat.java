@@ -4,6 +4,7 @@
 public class Cat {
     private Behavior behavior;
     private String name;
+    private int age;
 
     public Cat(Behavior behavior, String name) {
         this.behavior = behavior;
